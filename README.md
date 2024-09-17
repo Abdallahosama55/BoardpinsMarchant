@@ -1,8 +1,27 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Merchant Production Group](https://github.com/user-attachments/assets/afb165e4-2c71-4a03-afcd-df031d77de79)
+![Compare Now](https://github.com/user-attachments/assets/79939f8e-eafb-477d-99d1-276512e8eaea)
+![Compareing Home](https://github.com/user-attachments/assets/02f21489-bbb7-45cc-9749-0a6be63708fe)
+![Discover Bidding project-Provider](https://github.com/user-attachments/assets/f4c5f313-7a6c-4fa7-b446-ef9c6e508269)
+![My Bids](https://github.com/user-attachments/assets/e8ff3f1b-1940-451a-bc3c-0886c23834ee)
+![Categories Page](https://github.com/user-attachments/assets/36fd0fe4-d164-49ab-999b-3aa414658369)
+![Admin Page (1)](https://github.com/user-attachments/assets/2ebfeba3-4bae-4778-9f3a-955d91885868)
+![Admin Page](https://github.com/user-attachments/assets/d774d699-309b-4eda-89e0-a015c01b14c3)
+![Payment summery](https://github.com/user-attachments/assets/243e2c64-211c-4605-b622-1b3ce744c222)
+![Settings](https://github.com/user-attachments/assets/a6decb5c-cea7-479b-840f-a9bff668e3c7)
+![In-Progress Projects (2)](https://github.com/user-attachments/assets/918c57ae-59f9-43fb-b879-8d983a89e431)
+![In-Progress Projects (1)](https://github.com/user-attachments/assets/c418c939-e863-4743-a851-21446030f6af)
+![Tasks Defult View](https://github.com/user-attachments/assets/9e8c8236-031d-4985-ba65-b04926d36755)
+![Chat 2](https://github.com/user-attachments/assets/4d2c794e-b908-4ca2-80ef-4c5b8719c75c)
+![Merchant Dashboard](https://github.com/user-attachments/assets/437adf3a-00f0-49f5-9985-917457cbdfc0)
+![single service provider Page Services](https://github.com/user-attachments/assets/c1b7b806-be89-4e3f-b9a9-70056463ca9e)
+![Search Result](https://github.com/user-attachments/assets/36d4d084-ca4b-48b9-86c9-7c29f8001824)
+![home empty state](https://github.com/user-attachments/assets/8d4fd8f6-7359-4bf5-840b-93f134f2ab41)
+![Create a new password](https://github.com/user-attachments/assets/92e09a26-b604-4881-9cb3-7ee62b33dcf1)
+![home](https://github.com/user-attachments/assets/628db6e5-e472-40af-a7f9-6f689ea13039)
+![Forgot your password_](https://github.com/user-attachments/assets/863d56e2-16e8-4820-a649-651830a35dab)
+![verify email](https://github.com/user-attachments/assets/abe60bd0-707a-4081-84f4-05cdfba2a67c)
+![SignIn](https://github.com/user-attachments/assets/91c9e946-a6d8-4acd-981d-967e266fbd67)
+![SignUp 1](https://github.com/user-attachments/assets/9629803a-0d7b-4d57-ae02-e17f1a4c6be5)
+![About Us](https://github.com/user-attachments/assets/ec582145-1f09-4428-a631-e0cf4be30fb4)
+![Pricing (1)](https://github.com/user-attachments/assets/ca30d9be-02a8-4d08-be91-e16c7d9c94b4)
+![Pricing](https://github.com/user-attachments/assets/20bebb3a-f1d7-4c0c-a01c-be7eccc7199d)
